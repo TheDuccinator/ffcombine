@@ -1,5 +1,5 @@
 # ffcombine
-A crappy batch script that uses a text file based system.
+A crappy batch script that uses a text file based system. (Windows only)
 ![Alt text](/screenshot.png?raw=true "Screenshot of ffcombine")
 
 # Dependencies
