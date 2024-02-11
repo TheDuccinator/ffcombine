@@ -13,4 +13,4 @@ ffmpeg (It will not work if it's not in the same directory as ffcombine)
 Feel free to add stuff to this program to make it more useful and improve it in some way.
 
 #  Note
-I'n not guaranteeing that this program will work correctly.
+I'm not guaranteeing that this program will work correctly.
