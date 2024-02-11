@@ -2,6 +2,8 @@
 A crappy batch script that uses a text file based system. (Windows only)
 
 Useful for combining oscilloscope views for a soundtrack.
+
+Only outputs to MKV (Use only MKV files for that reason)
 ![Alt text](/screenshot.png?raw=true "Screenshot of ffcombine")
 
 # Dependencies
