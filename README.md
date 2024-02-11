@@ -3,7 +3,7 @@ A crappy batch script that uses a text file based system. (Windows only)
 ![Alt text](/screenshot.png?raw=true "Screenshot of ffcombine")
 
 # Dependencies
-ffmpeg
+ffmpeg (It will not if it's not in the same directory as ffcombine)
 
 #  Contribution
 Feel free to add stuff to this program to make it more useful.
