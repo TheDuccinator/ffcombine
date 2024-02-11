@@ -10,7 +10,7 @@ Only outputs to MKV (Use only MKV files for that reason)
 ffmpeg (It will not work if it's not in the same directory as ffcombine)
 
 #  Contribution
-Feel free to add stuff to this program to make it more useful.
+Feel free to add stuff to this program to make it more useful and improve it in some way.
 
 #  Note
 I'n not guaranteeing that this program will work correctly.
